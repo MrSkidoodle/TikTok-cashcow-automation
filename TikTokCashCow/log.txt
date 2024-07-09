@@ -1,0 +1,7 @@
+Found File directory: D:\Everything programming\2024\python\Video Making app\pythonProject\_FAMILY GUY_ - WON THE LOTTERY 10 000 000$ (360p).mp4 
+Created VideoFileClipType 
+Found File name: _FAMILY GUY_ - WON THE LOTTERY 10 000 000$ (360p).mp4 
+Combined videos 
+Found Main Clip Duration: 451.3 
+Single Clip Duration = 60 
+File will be split into 7 files 
